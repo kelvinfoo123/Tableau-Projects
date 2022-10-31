@@ -38,11 +38,18 @@ Looking only at the west, northeast and north regions, Western Water Catchment, 
 
 Dashboard 4: Overall revenue 
 ![image](https://user-images.githubusercontent.com/112041340/198968550-2e13d416-9b39-492a-ba06-1f290ecdf54f.png)
+
+
 This dashboard considers both the price per night stay and the average number of nights stayed at one time. The revenue is calculated as price * number of nights stayed. The east and northeast region have the highest average revenue. 
 ![image](https://user-images.githubusercontent.com/112041340/198969025-d0f24ba7-9f38-4420-98b4-db50006e7673.png)
+
+
 Zooming in on the east and northeast regions, hougang and bedok generate the highest revenue. 
 
 ![image](https://user-images.githubusercontent.com/112041340/198969254-aed4408d-9c5e-4741-96cd-5960ddca445b.png)
+
+
 However, we have much more listings in bedok than hougang. Hence, it is more competititive to rent out an Airbnb in Bedok. Thus, the advice would be to buy a unit in Hougang and rent it out as an Airbnb. 
+
 
 However, developing a more concrete suggestion would require looking at the price of units in each neighborhood. 
